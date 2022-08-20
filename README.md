@@ -1,6 +1,6 @@
 #tic-tac-toe-react
 
-This is an attempt to deploy a tic-tac-toe react app to gh-pages.
+This repo is designed to deploy a tic-tac-toe react app to gh-pages.
 
 You can test the application on GH-Pages <a href=https://elborracho420.github.io/tic-tac-toe title="Tic Tac Toe"> here.</a>
 
