@@ -2,7 +2,7 @@
 
 This repo is designed to deploy a tic-tac-toe react app to gh-pages.
 
-You can test the application on GH-Pages <a href=https://elborracho420.github.io/tic-tac-toe title="Tic Tac Toe"> here.</a>
+You can test the application on GH-Pages <a href=https://claudebaxter.github.io/tic-tac-toe title="Tic Tac Toe"> here.</a>
 
 This game lets you:
 
